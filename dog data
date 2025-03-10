@@ -18,21 +18,21 @@
     "age": 5,
     "breed": "Labrador Retriever",
     "temperament": "Affectionate, Energetic, Patient",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assets/pexels-poodles2doodles-1458925 (1).jpg"
   },
   {
     "name": "Charlie",
     "age": 2,
     "breed": "Cocker Spaniel",
     "temperament": "Gentle, Loving, Alert",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assets/pexels-tanika-pietila-1955201-3687770 (2).jpg"
   },
   {
     "name": "Lucy",
     "age": 6,
     "breed": "Bernese Mountain Dog",
     "temperament": "Calm, Patient, Affectionate",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assets/pexels-vanserline-vandenberg-759843-1619690 (1).jpg"
   },
   {
     "name": "Daisy",
