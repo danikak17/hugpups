@@ -11,7 +11,7 @@
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "/assets/pexels-leah-newhouse-50725-373467 (1) .jpg"
+    "image_url": "/assets/pexels-leah-newhouse-50725-373467 (1).jpg"
   },
   {
     "name": "Max",
@@ -39,6 +39,6 @@
     "age": 4,
     "breed": "Cavalier King Charles Spaniel",
     "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "/assets/pexels-leah-newhouse-50725-373467 (1).jpg"
   }
 ]
