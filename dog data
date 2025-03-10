@@ -41,4 +41,10 @@
     "temperament": "Friendly, Quiet, Adaptable",
     "image_url": "data not provided, this will need to be replaced"
   }
+ "name": "james",
+    "age": 4,
+    "breed": "Cavalier King Charles Spaniel",
+    "temperament": "Friendly, Quiet, Adaptable",
+    "image_url": "data not provided, this will need to be replaced"
+  }
 ]
